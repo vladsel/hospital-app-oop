@@ -1,1 +1,3 @@
-# 17_Code
+# Simple Hospital App
+
+This application simulates the work of a hospital. Here, the creation of a class hierarchy, the application of inheritance and polymorphism, the development of a container for storing the data of a set of objects that are created by the user are used. In the coursework, classes were defined (the hierarchy of program classes: base class – medical institution, descendant classes – hospital, polyclinic), a user menu was developed, a set of objects was created, and a container for its storage was developed (container type – singly linked list ), saving the data of the container elements to a file and creating the contents of the container by unpacking the data of the file, the data search in the container was implemented (the search request is to count the total number of doctors working in the medical institutions of the given city).
